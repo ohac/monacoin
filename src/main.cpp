@@ -77,7 +77,7 @@ int64 nHPSTimerStart = 0;
 int64 nTransactionFee = 0;
 int64 nMinimumInputValue = DUST_HARD_LIMIT;
 
-int64 nSwitchKGWblock = 1000000;
+int64 nSwitchKGWblock = 80000;
 
 //////////////////////////////////////////////////////////////////////////////
 //
